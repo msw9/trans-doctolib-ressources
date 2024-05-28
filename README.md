@@ -1,1 +1,1 @@
-# trans-doctolib-ressources
+Ce répertoire contient liens vers les tribunes consultées dans le cadre du projet [Trans Doctolib](https://github.com/msw9/trans-doctolib/tree/main) et listes complètes des signataires ayant un profil Doctolib.
